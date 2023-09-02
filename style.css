@@ -1,0 +1,98 @@
+.welcome{
+    text-align: center;
+    color: red;
+    background-color: green;
+}
+
+.Atheists{
+    text-align: center;
+    color:red   
+}
+
+.Ath-section{
+    background-color: red;
+    text-align: center;
+}
+
+.evolution{
+    margin: 30px;
+    padding: 20px;
+    background-color:aqua
+}
+
+.big-bang{
+    margin: 30px;
+    padding:20px;
+    background-color:blueviolet
+}
+
+.spacies{
+    margin:30px;
+    padding:20px;
+    background-color:sandybrown
+}
+
+.muslims-section{
+    text-align: center;
+    color: hotpink;
+}
+
+.muslims-books-section{
+    text-align:center;
+    background-color:fuchsia 
+}
+
+.god-exists{
+    margin: 30px;
+    padding: 20px;
+    background-color:aqua
+}
+
+.Ture-religion{
+    margin: 30px;
+    padding:20px;
+    background-color:blueviolet
+}
+
+.Islam-and-women{
+    margin:30px;
+    padding:20px;
+    background-color:sandybrown
+}
+
+.universe{
+    text-align: center;
+    color: green;
+}
+
+.universe-books-section{
+    text-align: center;
+    background-color: green;
+}
+
+.everything-theory{
+    margin: 30px;
+    padding: 20px;
+    background-color:aqua
+}
+
+.secret-of-universe{
+    margin: 30px;
+    padding:20px;
+    background-color:blueviolet
+}
+
+.special-plante{
+    margin:30px;
+    padding:20px;
+    background-color:sandybrown
+}
+
+.back-to-top{
+    font-size: larger;
+    text-align: center;
+    background-color:aqua;
+    margin: 30px;
+    padding: 20px;
+
+}
